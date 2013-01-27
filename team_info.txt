@@ -1,0 +1,23 @@
+Local - Brasil - Rio de Janeiro
+
+Riachuelo Ludum Labs
+
+Crew :
+
+Design and Programming - Antonio Marcelo - amarcelo
+Art and Design - Rodrigo Soledade - Vahaal
+Made in Scirra Construct 2 - HTML 5
+
+Game - Heart Defender
+
+Site for the game
+
+http://www.riachuelogames.com.br/ggj2013
+
+Site in Github
+
+https://github.com/amarcelo/globalgamejam2013.git
+
+Alternative download for source
+
+http://www.riachuelogames.com.br/ggj2013/source/gamejam2013.rar
